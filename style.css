@@ -6,6 +6,10 @@ h1 {
     font-size: 50px;
 }
 
+p {
+    color: dimgray;
+}
+
 .name-highlight {
     color: orange;
 }
@@ -28,4 +32,13 @@ h1 {
 
 section {
     heitht: 500px
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    bordr-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
